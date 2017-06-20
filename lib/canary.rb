@@ -1,3 +1,5 @@
+require "canary/engine"
+
 module Canary
   class << self
     attr_accessor :configuration
