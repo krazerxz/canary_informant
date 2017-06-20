@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     canary (0.1.0)
-      cachet_api (~> 1.0.2)
+      cachet_api (~> 1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -69,7 +69,7 @@ DEPENDENCIES
   byebug
   canary!
   rake (~> 12)
-  rspec (~> 3.6.0)
+  rspec (~> 3.6)
   rubocop (~> 0.49.1)
   simplecov (~> 0.14.1)
 
