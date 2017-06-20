@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    canary (0.1.0)
+    canary (0.1.1)
       cachet_api (~> 1.0)
       rails (~> 5)
 
